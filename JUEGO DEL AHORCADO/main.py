@@ -24,7 +24,7 @@ import random
 palabraAdivinada = []
 letrasEscritas = []
 intentos = 6
-palabraSecretaAjustes = "1"
+palabraSecretaAjustes = "123456"
 nombreArchivoGrupos = "grupos.txt"
 
 
