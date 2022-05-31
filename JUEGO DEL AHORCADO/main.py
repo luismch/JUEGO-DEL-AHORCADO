@@ -316,6 +316,7 @@ def obtenerGrupos():
     return grupos
 
 
+
 def obtenerPalabrasDeGrupo(grupo):
     palabras = []
     with open(grupo + ".txt") as archivo:
